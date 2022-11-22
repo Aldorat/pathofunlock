@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pathofunlock/static/css/main.3e86d222.css",
-    "main.js": "/pathofunlock/static/js/main.2d19605e.js",
+    "main.css": "/pathofunlock/static/css/main.f5adf1f8.css",
+    "main.js": "/pathofunlock/static/js/main.83b528a3.js",
     "static/js/787.734079e3.chunk.js": "/pathofunlock/static/js/787.734079e3.chunk.js",
     "static/media/bg.jpg": "/pathofunlock/static/media/bg.0b41abf2cd9ff5458f7e.jpg",
     "static/media/plug.png": "/pathofunlock/static/media/plug.feb87a14dfd69c381351.png",
     "index.html": "/pathofunlock/index.html",
-    "main.3e86d222.css.map": "/pathofunlock/static/css/main.3e86d222.css.map",
-    "main.2d19605e.js.map": "/pathofunlock/static/js/main.2d19605e.js.map",
+    "main.f5adf1f8.css.map": "/pathofunlock/static/css/main.f5adf1f8.css.map",
+    "main.83b528a3.js.map": "/pathofunlock/static/js/main.83b528a3.js.map",
     "787.734079e3.chunk.js.map": "/pathofunlock/static/js/787.734079e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e86d222.css",
-    "static/js/main.2d19605e.js"
+    "static/css/main.f5adf1f8.css",
+    "static/js/main.83b528a3.js"
   ]
 }
